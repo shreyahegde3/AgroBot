@@ -166,9 +166,9 @@ class_indices = {
     13: "Tomato__Tomato_mosaic_virus",
     14: "Tomato_healthy"
 }
-
+#add your key
 # Gemini API key - in a production environment, use environment variables
-GEMINI_API_KEY = "AIzaSyDEo02k5Hc1K4ZWAXupMCTDatCexZp5LgQ"  # Replace with your API key in production
+GEMINI_API_KEY = "replace with your api key"  # Replace with your API key in production
 
 # Classes for Yield Prediction
 class YieldPredictionRequest(BaseModel):
