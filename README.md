@@ -108,14 +108,6 @@ Indicates a failed prediction when images unrelated to plants are uploaded.
 ![image](https://github.com/user-attachments/assets/44d634ba-ad59-449d-a3fb-c4a3c29725ae)
 
 
-
-
-## Contributors
-- **Mohul Y P**
-- **Pranav S Acharya**
-- **Rishika Naarayan**
-- **Shreya M Hegde**
-
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
